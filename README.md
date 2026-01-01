@@ -24,7 +24,7 @@ A clean QR Code Generator built using React and TailwindCSS.
 
 ### Live Demo
 
-https://react-qrcode-generator.netlify.app/
+https://awizp-react-qrcode-generator.netlify.app/
 
 ### Contribution
 
